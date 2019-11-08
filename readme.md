@@ -10,7 +10,7 @@
 <br>
 
 ## Introduction
-[![React Native](https://img.shields.io/badge/React%20Native-0.60-blue.svg?style=rounded-square)](https://facebook.github.io/react-native/)
+[![Laravel](https://img.shields.io/badge/React%20Native-0.60-blue.svg?style=rounded-square)](https://facebook.github.io/react-native/)
 [![Node.js](https://img.shields.io/badge/Node.js-v.10.16-green.svg?style=rounded-square)](https://nodejs.org/)
 [![Redux.js](https://img.shields.io/badge/Redux.js-4.0.1-purple.svg?style=rounded-square)](https://redux.js.org/)
 
@@ -51,14 +51,8 @@ React Native invokes Objective-C APIs to render to iOS components, or Java APIs 
 ## Screenshot from the app
 <p align='center'>
   <span>
-  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150619.png' width=200 />
-  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150625.png' width=200 />
-  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150636.png' width=200 />
-  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150643.png' width=200 />
-  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150649.png' width=200 />
-  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150653.png' width=200 />
-  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-160528.png' width=200 />
-  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-161149.png' width=200 />
+  <img src='https://github.com/hajidito9/Laravel-B-2A/blob/master/WhatsApp%20Image%202019-11-08%20at%2016.34.53.jpeg' />
+  <img src='https://github.com/hajidito9/Laravel-B-2A/blob/master/WhatsApp%20Image%202019-11-08%20at%2016.34.29.jpeg' />
   </span>
 </p>
 
