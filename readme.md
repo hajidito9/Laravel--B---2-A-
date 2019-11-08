@@ -31,13 +31,15 @@ Laravel is accessible, yet powerful, providing powerful tools needed for large, 
 
 ## How to run the app ?
 1. clone this git repository
-2. import [Database] (https://github.com/hajidito9/Laravel-B-2A/blob/master/assignment-laravel.sql)
+2. import [Database](https://github.com/hajidito9/Laravel-B-2A/blob/master/assignment-laravel.sql)
 3. run php artisan serve
 
 ## Screenshot from the app
 <p align='center'>
   <span>
+    localhost:8000/create
   <img src='https://github.com/hajidito9/Laravel-B-2A/blob/master/WhatsApp%20Image%202019-11-08%20at%2016.34.53.jpeg' />
+    localhost:8000/show
   <img src='https://github.com/hajidito9/Laravel-B-2A/blob/master/WhatsApp%20Image%202019-11-08%20at%2016.34.29.jpeg' />
   </span>
 </p>
