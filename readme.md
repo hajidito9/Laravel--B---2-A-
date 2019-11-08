@@ -1,27 +1,68 @@
-# Laravel PHP Framework
+<h1 align='center'>Laravel-B-2A Contact US Page</h1>
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+<p align='center'>
+  <a href='https://laravel.com/'>
+  <img src='https://i0.wp.com/timleland.com/wp-content/uploads/2016/06/laravel-logo-e1422466263489.png?w=750&ssl=1' />
+  </a>
+</p>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+<br>
+<br>
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+## Introduction
+[![React Native](https://img.shields.io/badge/React%20Native-0.60-blue.svg?style=rounded-square)](https://facebook.github.io/react-native/)
+[![Node.js](https://img.shields.io/badge/Node.js-v.10.16-green.svg?style=rounded-square)](https://nodejs.org/)
+[![Redux.js](https://img.shields.io/badge/Redux.js-4.0.1-purple.svg?style=rounded-square)](https://redux.js.org/)
 
-## Official Documentation
+Here is my new repository which builded with React Native Framework for making the User Interface in JavaScript syntax, see my previous repository about [NoteApp-ExpressJS-RESTfulApi](https://github.com/hajidito/NoteApp-ExpressJS-RESTfulApi) for the backend side and making API.
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+### What is React Native ?
+React Native is an open-source mobile application framework created by Facebook. It is used to develop applications for Android, iOS and UWP by enabling developers to use React along with native platform capabilities. [[1]](https://en.wikipedia.org/wiki/React_Native)
 
-## Contributing
+### Why using React Native ?
+6 main reason why me using React Native for make a mobile app :
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+1. It's got iOS and Android covered
+2. Reusable components allow hybrid apps to render natively
+3. Apply React Native UI component to an existing app's code-without any rewriting at all
+4. It’s one of the top mobile JavaScript frameworks among developers—and growing
+5. React Native is all about the UI
+6. Native app development is much more efficient
 
-## Security Vulnerabilities
+### How React Native works ?
+Short explanation about **How React Native Works**.
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+React Native invokes Objective-C APIs to render to iOS components, or Java APIs to render to Android components. This sets React Native apart from other cross-platform app development options, which often end up rendering web-based views.
+<br>
+<br>
+## Requirements
+1. npm (node package manager)
+2. react-native-cli (from npm)
 
-## License
+## How to run the app ?
+1. Clone or download first this repository with `git clone https://github.com/hajidito/NoteApp-ReactNative-Redux.git`
+2. Open the project in your favorite text editor
+3. Open your terminal or cmd and type `npm install`
+4. Run the backend side [NoteApp-ExpressJS-RESTfulApi](https://github.com/hajidito/NoteApp-ExpressJS-RESTfulApi).
+5. Change domain IP in all files at folder src/publics/redux/actions/ with your computer domain IP where the backend is running.
+6. Make sure your android device can access the IP domain from the backend and connect to the internet.
+7. And the last just type in your terminal or cmd `react-native run-android`, be sure if you connected with a android device on debugging mode or use the android emulator on debugging mode too.
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+## Screenshot from the app
+<p align='center'>
+  <span>
+  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150619.png' width=200 />
+  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150625.png' width=200 />
+  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150636.png' width=200 />
+  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150643.png' width=200 />
+  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150649.png' width=200 />
+  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-150653.png' width=200 />
+  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-160528.png' width=200 />
+  <img src='https://github.com/hajidito/NoteApp-ReactNative-Redux/blob/master/screenshoot%20app/Screenshot_20190707-161149.png' width=200 />
+  </span>
+</p>
+
+## Collaborators
+* Nadia Salsabila H.P. - [Github](https://github.com/nadialsaaa)
+* Muhammad Rizza Firmansyah - [Github](https://github.com/rizzaff)
+* Haji Dito - [Github](https://github.com/hajidito9)
