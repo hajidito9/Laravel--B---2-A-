@@ -10,43 +10,29 @@
 <br>
 
 ## Introduction
-[![Laravel](https://img.shields.io/badge/React%20Native-0.60-blue.svg?style=rounded-square)](https://facebook.github.io/react-native/)
-[![Node.js](https://img.shields.io/badge/Node.js-v.10.16-green.svg?style=rounded-square)](https://nodejs.org/)
-[![Redux.js](https://img.shields.io/badge/Redux.js-4.0.1-purple.svg?style=rounded-square)](https://redux.js.org/)
+[![Laravel](https://img.shields.io/badge/Laravel-5.2.*-orange.svg?style=rounded-square)](https://laravel.com/)
 
-Here is my new repository which builded with React Native Framework for making the User Interface in JavaScript syntax, see my previous repository about [NoteApp-ExpressJS-RESTfulApi](https://github.com/hajidito/NoteApp-ExpressJS-RESTfulApi) for the backend side and making API.
+Here is our new repository which builded with Laravel Framework for making the Contact Us Page using database MySQL.
 
-### What is React Native ?
-React Native is an open-source mobile application framework created by Facebook. It is used to develop applications for Android, iOS and UWP by enabling developers to use React along with native platform capabilities. [[1]](https://en.wikipedia.org/wiki/React_Native)
+### What is Laravel ?
+Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.
 
-### Why using React Native ?
-6 main reason why me using React Native for make a mobile app :
+### Why using Laravel?
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
 
-1. It's got iOS and Android covered
-2. Reusable components allow hybrid apps to render natively
-3. Apply React Native UI component to an existing app's code-without any rewriting at all
-4. It’s one of the top mobile JavaScript frameworks among developers—and growing
-5. React Native is all about the UI
-6. Native app development is much more efficient
+Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.
 
-### How React Native works ?
-Short explanation about **How React Native Works**.
+Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
 
-React Native invokes Objective-C APIs to render to iOS components, or Java APIs to render to Android components. This sets React Native apart from other cross-platform app development options, which often end up rendering web-based views.
-<br>
-<br>
 ## Requirements
-1. npm (node package manager)
-2. react-native-cli (from npm)
+1. composer
+2. laravel 5.2.*
+3. xampp
 
 ## How to run the app ?
-1. Clone or download first this repository with `git clone https://github.com/hajidito/NoteApp-ReactNative-Redux.git`
-2. Open the project in your favorite text editor
-3. Open your terminal or cmd and type `npm install`
-4. Run the backend side [NoteApp-ExpressJS-RESTfulApi](https://github.com/hajidito/NoteApp-ExpressJS-RESTfulApi).
-5. Change domain IP in all files at folder src/publics/redux/actions/ with your computer domain IP where the backend is running.
-6. Make sure your android device can access the IP domain from the backend and connect to the internet.
-7. And the last just type in your terminal or cmd `react-native run-android`, be sure if you connected with a android device on debugging mode or use the android emulator on debugging mode too.
+1. clone this git repository
+2. import [Database] (https://github.com/hajidito9/Laravel-B-2A/blob/master/assignment-laravel.sql)
+3. run php artisan serve
 
 ## Screenshot from the app
 <p align='center'>
